@@ -37,7 +37,7 @@ Displays all added items with quantity and total price before checkout.
 
 **💳 Checkout Page**  
 User fills in name and email to place the order.  
-![Checkout](frontend/public/screenshots/checout.png)
+![Checkout](frontend/public/screenshots/checkout.png)
 
 ---
 
