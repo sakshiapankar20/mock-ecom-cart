@@ -21,20 +21,27 @@ Checkout with name and email (mock flow)
 
 Responsive and clean UI
 
+
 🔧 Setup
 # Clone repo
 git clone https://github.com/sakshiapankar20/mock-ecom-cart.git
+
 cd mock-ecom-cart
 
 # Backend setup
 cd backend
+
 npm install
+
 npm run seed
+
 npm run dev
 
 # Frontend setup
 cd ../frontend
+
 npm install
+
 npm run dev
 
 
